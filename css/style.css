@@ -15,6 +15,7 @@
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: #505865;
 }
 
 .text-muted {
@@ -43,14 +44,15 @@ a.active {
 }
 
 a {
-    color: #0099CC;
+    color: #333;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #0077CC;
+    color: #B8374F;
+    text-decoration: none;
 }
 
 h1,
